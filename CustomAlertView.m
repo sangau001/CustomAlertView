@@ -11,8 +11,8 @@
 
 @implementation CustomAlertView
 - (void) showAlertWithTitle:(NSString *) title andMessage:(NSString *) message{
-    UIAlertView *alert = [[UIAlertView alloc] initWithTitle:title
-                                                    message:message
+    UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"MutualMobile"
+                                                    message:@"MutualMobile"
                                                    delegate:nil
                                           cancelButtonTitle:@"OK"
                                           otherButtonTitles:nil];

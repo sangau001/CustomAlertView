@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "CustomAlertView"
-  s.version      = "0.1"
+  s.version      = "0.2"
   s.summary      = "Custom Alert view for iOS apps"
   s.homepage     = "https://github.com/sangau001/CustomAlertView"
   s.license      = { :type => "MIT", :file => "LICENSE" }
